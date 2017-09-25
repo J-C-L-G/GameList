@@ -1,0 +1,10 @@
+/* CSS Module applied globally*/
+:global{
+  .inApp{
+    color: white;
+    background-color: black;
+    i{
+      font-size: 100px;
+    }
+  }
+}

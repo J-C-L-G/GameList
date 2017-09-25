@@ -1,0 +1,8 @@
+/*Font Awesome*/
+$fa-font-path: "~font-awesome/fonts";
+@import '~font-awesome/scss/font-awesome.scss';
+
+/*Bootstrap*/
+$icon-font-path: "bootstrap-sass/assets/fonts/bootstrap/";
+@import "../node_modules/bootstrap-sass/assets/stylesheets/bootstrap-sprockets";
+@import "../node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
